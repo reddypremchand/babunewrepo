@@ -2,6 +2,9 @@ package com.premchnad;
 
 public class Javas {
 
-    int s=100;
+    public static void main(String[] args) {
+        int s=100;
+    }
+
 
 }
